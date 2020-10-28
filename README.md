@@ -1,4 +1,7 @@
 # oscheck
+
+The script is compatible with RHEL7 and Centos7.
+
 System Info
 - hostname
 - OS version
